@@ -1,6 +1,6 @@
-# KDrama Hub
+# KDrama 
 
-KDrama Hub is a website where you can find your favorite K-Dramas, new launches, trending shows, most viewed, and popular series. It features a sliding window for personalized recommendations and is built using HTML and CSS. The website is designed to be responsive, ensuring a seamless experience across all devices.
+KDrama  is a website where you can find your favorite K-Dramas, new launches, trending shows, most viewed, and popular series. It features a sliding window for personalized recommendations and is built using HTML and CSS. The website is designed to be responsive, ensuring a seamless experience across all devices.
 
 ## Features
 
